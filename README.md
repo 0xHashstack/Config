@@ -1,6 +1,6 @@
 # Hashstack public roadmap
 
-In this repository, you can find the [official Hashstack public product roadmap](https://trello.com/b/Yhnoqv8N/roadmap). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. This roadmap covers every part of Hashstack including the products we are building, documentation, website, and meta.
+You can find the **[official Hashstack public product roadmap](https://trello.com/b/Yhnoqv8N/roadmap)**. Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. This roadmap covers every part of Hashstack including the products we are building, documentation, website, and meta.
 
 This is our trial with building in public. We have begun this journey with Trello, owing to ease, we will switch everything to thsi repository at the earliest possiblity.. Our roadmap is heavily influenced by the discussions with our community across various Telegram & twitter.
 
