@@ -8,8 +8,6 @@ This roadmap is heavily influenced by the [official GitHub public product roadma
 
 > The smartcontracts powering Hashstack ecosystem are built simultaneously on Binance-smart-chain & Avalacne c-chain
 
-<br />
-
 ## Guide to Hashstack's roadmap
 
 Every item on the roadmap is an issue, with a label that indicates each of the following:
@@ -17,7 +15,6 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 * A **release phase** that describes the next expected phase of the roadmap item. See below for a guide to release phases.
 * A **feature area** that indicates the area of the product to which the item belongs. For a list of current product areas, see below.
 
-<br />
 
 ## Release phases
 
@@ -41,7 +38,6 @@ Some of our features may still be in the exploratory stages, and have no timefra
 
 Hashstack's web application and its products are supported by NodeJs in the backend, and deployed through amazon web services. We use bitbucket for internal development works. In the front-end, the static site is designed on Figma, & built with webflow. Our APIs are served through REST. We use Solidity/truffle/ganache/npm/web3 for smart contract development.
 
-<br />
 
 ## Roadmap stages
 
@@ -56,7 +52,6 @@ The following is a list of our current product areas:
 - **product:** The Hashstack product/protocol.
 - **website:** The Hashstack website.
 
-<br />
 
 ## Disclaimer 
 
