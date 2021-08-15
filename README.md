@@ -40,6 +40,9 @@ Some of our features may still be in the exploratory stages, and have no timefra
 ## Our technology
 
 Hashstack's web application and its products are supported by NodeJs in the backend, and deployed through amazon web services. We use bitbucket for internal development works. In the front-end, the static site is designed on Figma, & built with webflow. Our APIs are served through REST. We use Solidity/truffle/ganache/npm/web3 for smart contract development.
+
+<br />
+
 ## Roadmap stages
 
 The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every product or feature is added to a particular project board column according to the quarter in which it is expected to ship next. Be sure to read the [disclaimer](#disclaimer) below since the roadmap is subject to change, especially further out on the timeline.  You'll also find an **Future** column, which is used in conjunction with the **in design** and **exploring** release phase labels for when no timeframe is yet available.
@@ -53,6 +56,7 @@ The following is a list of our current product areas:
 - **product:** The Hashstack product/protocol.
 - **website:** The Hashstack website.
 
+<br />
 
 ## Disclaimer 
 
