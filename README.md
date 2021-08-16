@@ -6,7 +6,7 @@ This is our trial with building in public. We have begun this journey with Trell
 
 This roadmap is heavily influenced by the [official GitHub public product roadmap](https://github.com/github/roadmap). Thank you to the team who worked on that for paving the path!
 
-> The smartcontracts powering Hashstack ecosystem are built simultaneously on Binance-smart-chain & Avalacne c-chain
+> The smartcontracts powering Hashstack ecosystem are built simultaneously on Binance-smart-chain & Avalanche-c-chain
 
 ## Guide to Hashstack's roadmap
 
@@ -43,7 +43,7 @@ Hashstack's web application and its products are supported by NodeJs in the back
 
 The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every product or feature is added to a particular project board column according to the quarter in which it is expected to ship next. Be sure to read the [disclaimer](#disclaimer) below since the roadmap is subject to change, especially further out on the timeline.  You'll also find an **Future** column, which is used in conjunction with the **in design** and **exploring** release phase labels for when no timeframe is yet available.
 
-## Feature Areas
+## Feature areas
 
 The following is a list of our current product areas:
 
